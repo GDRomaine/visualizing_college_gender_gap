@@ -6,8 +6,7 @@ Education Statistics](https://nces.ed.gov/) releases a dataset annually containi
 bachelor's degrees granted to women from 1970 onward. The dataset is broken up
 into 17 categories of degrees, with each column as a separate category. Randal
 Olson, a data scientist at University of Pennsylvania, has cleaned the dataset
-and made it available on his [personal website](http://www.randalolson.com/). You can download the dataset
-Randal compiled [here](http://www.randalolson.com/wp-content/uploads/percent-bachelors-degrees-women-usa.csv).
+and made it available on his [personal website](http://www.randalolson.com/).
 
 The motivation behind this project is to showcase my ability to create data
 visualizations which effectively communicate the desired information while also
